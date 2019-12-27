@@ -1,3 +1,3 @@
 #!bin/bash
 
-apt install httpd
+sudo apt install apache2
